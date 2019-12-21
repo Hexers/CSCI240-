@@ -1,0 +1,7 @@
+Exercise 7.7 - Aleksandar Kljaic
+
+a) 	False, specify name and element number.
+b)  False, the definition initializes the array. The declaration of the array reserves space.
+c)  True
+d)  False. It can be done by assignment or by using an initializer list.
+e)  True

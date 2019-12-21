@@ -1,0 +1,13 @@
+Exercise 4.23
+
+Enter Number [1]: 1
+Enter Number [2]: 2
+Enter Number [3]: 3
+Enter Number [4]: 4
+Enter Number [5]: 5
+Enter Number [6]: 6
+Enter Number [7]: 7
+Enter Number [8]: 8
+Enter Number [9]: 9
+Enter Number [10]: 10
+Largest = 10

@@ -1,0 +1,15 @@
+account1 balance: $50.00
+account2 balance: $0.00
+
+Enter withdrawal amount for account1: 25.00
+
+subtracting 25.67 from account1 balance
+account1 balance: $25.00
+account2 balance: $0.00
+
+Enter withdrawal amount for account2: 10.00
+
+subtracting 10.00 from account2 balance
+Debit amount exceeded account balance.
+account1 balance: $25.00
+account2 balance: $0.00

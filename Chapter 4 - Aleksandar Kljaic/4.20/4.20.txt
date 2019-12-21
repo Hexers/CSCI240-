@@ -1,0 +1,12 @@
+Enter the number of regular hours Employee 1 worked: 40
+Enter the number of overtime hours Employee 1 worked: 8
+Enter the payrate of Employee 1:  15
+Gross pay for Employee 1 is 780.00
+:Enter the number of regular hours Employee 2 worked: 45
+Enter the number of overtime hours Employee 2 worked: 10
+Enter the payrate of Employee 2: 20
+Gross pay for Employee 2 is 1200.00
+Enter the number of regular hours Employee 3 worked: 38
+Enter the number of overtime hours Employee 3 worked: 6
+Enter the payrate of Employee 3: 25
+Gross pay for Employee 3 is 1175.00

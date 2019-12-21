@@ -1,0 +1,6 @@
+Employee 1: Brandon Brandonship; Yearly Salary: 34500.00
+Employee 2: Amber Amberfield; Yearly Salary: 37809.00
+
+Increasing employee salaries by 10%
+Employee 1: Brandon Brandonship; Yearly Salary: 37950.00
+Employee 2: Amber Amberfield; Yearly Salary: 41589.90

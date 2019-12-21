@@ -1,0 +1,7 @@
+Exercise 3.6
+	A default construction is the construction run if no other options/parameters are provided or if a construction is not provided. If you do not provide a constructor then you cannot guarantee what the instance variables are set to. You have to figure out how to set them before they are used. It could be done by an initialize routine or a first operation invoked. 
+
+Exercise 3.7
+	The purpose on an instance variable is to define behaviours of objects. A static method does not define object behaviour, but is defined within a class. An instance variable can be user or modified at any time during an application's execution.
+
+	A class provides an instance variable (or several instance variables) when each object of the class must maintain information separately from all other objects of the class. For example, a class called Account that represents a bank account provides an instance variable to represent the balance of the account. Each Account object maintains its own balance, but does not know the balances of the bank's other accounts.

@@ -1,0 +1,37 @@
+Please enter the number of games you  would like to run: 
+1000000
+
+Total Victories are: 493020
+Chances at winning are: 49.302%
+Average Number of rolls per game: 3.39395
+
+#      W      L             Chance
+After 1 rolls of the dice  there were 221100 games won and 111260 games lost with a 22.11% chance of winning.
+After 2 rolls of the dice  there were 77590 games won and 109690 games lost with a 7.759% chance of winning.
+After 3 rolls of the dice  there were 54940 games won and 80270 games lost with a 5.494000000000001% chance of winning.
+After 4 rolls of the dice  there were 39200 games won and 56450 games lost with a 3.92% chance of winning.
+After 5 rolls of the dice  there were 27970 games won and 41650 games lost with a 2.7969999999999997% chance of winning.
+After 6 rolls of the dice  there were 20690 games won and 28990 games lost with a 2.069% chance of winning.
+After 7 rolls of the dice  there were 14210 games won and 21960 games lost with a 1.421% chance of winning.
+After 8 rolls of the dice  there were 10920 games won and 15140 games lost with a 1.0919999999999999% chance of winning.
+After 9 rolls of the dice  there were 7430 games won and 11430 games lost with a 0.743% chance of winning.
+After 10 rolls of the dice  there were 5570 games won and 8120 games lost with a 0.557% chance of winning.
+After 11 rolls of the dice  there were 3690 games won and 5990 games lost with a 0.369% chance of winning.
+After 12 rolls of the dice  there were 2840 games won and 4520 games lost with a 0.28400000000000003% chance of winning.
+After 13 rolls of the dice  there were 1980 games won and 2910 games lost with a 0.198% chance of winning.
+After 14 rolls of the dice  there were 1370 games won and 2190 games lost with a 0.13699999999999998% chance of winning.
+After 15 rolls of the dice  there were 790 games won and 1580 games lost with a 0.079% chance of winning.
+After 16 rolls of the dice  there were 900 games won and 1380 games lost with a 0.09% chance of winning.
+After 17 rolls of the dice  there were 520 games won and 102 games lost with a 0.052% chance of winning.
+After 18 rolls of the dice  there were 310 games won and 690 games lost with a 0.031% chance of winning.
+After 19 rolls of the dice  there were 260 games won and 480 games lost with a 0.026% chance of winning.
+After 20 rolls of the dice  there were 200 games won and 340 games lost with a 0.02% chance of winning.
+After 21 rolls of the dice  there were 100 games won and 200 games lost with a 0.01% chance of winning.
+After 22 rolls of the dice  there were 110 games won and 250 games lost with a 0.011000000000000001% chance of winning.
+After 23 rolls of the dice  there were 70 games won and 120 games lost with a 0.006999999999999999% chance of winning.
+After 24 rolls of the dice  there were 70 games won and 60 games lost with a 0.006999999999999999% chance of winning.
+After 25 rolls of the dice  there were 60 games won and 100 games lost with a 0.006% chance of winning.
+After 26 rolls of the dice  there were 30 games won and 30 games lost with a 0.003% chance of winning.
+After 27 rolls of the dice  there were 30 games won and 30 games lost with a 0.003% chance of winning.
+After 28 rolls of the dice  there were 20 games won and 40 games lost with a 0.002% chance of winning.
+After 29 rolls of the dice  there were 0 games won and 30 games lost with a 0.0% chance of winning.

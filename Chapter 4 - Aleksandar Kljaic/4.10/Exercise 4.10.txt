@@ -1,0 +1,10 @@
+Exercise 4.10
+
+If single selection is a statement in Java that evaluates to True or False meaning that if the statement results in True the work gets done on the true side, if its evaluated false the true side gets ignored and the next line of code gets executed.
+
+The while loop in Java means exactly that, while statement is true that loop will execute until the condition is met or becomes false.
+
+Both of this statements, are similar that both have to evaluate if something is either true or false meaning that a certain condition has to be met in order for them to execute or skip a line of code.
+
+The main difference between the if single-selection and the while loop in Java is that the if condition only does what is being asked in the true side of the program, in a while loop in Java the line of code gets executed over and over until the condition is met so the loop terminates.
+

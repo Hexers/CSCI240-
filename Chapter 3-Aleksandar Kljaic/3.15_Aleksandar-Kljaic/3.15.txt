@@ -1,0 +1,2 @@
+The initial date is: 7/4/2004
+Date with new values is: 11/1/2003
